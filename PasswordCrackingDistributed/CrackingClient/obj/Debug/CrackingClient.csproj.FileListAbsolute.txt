@@ -1,0 +1,14 @@
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\bin\Debug\CrackingClient.exe.config
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\bin\Debug\CrackingClient.exe
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\bin\Debug\CrackingClient.pdb
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\CrackingClient.csprojResolveAssemblyReference.cache
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\MainWindow.g.cs
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\App.g.cs
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\CrackingClient_MarkupCompile.cache
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\CrackingClient_MarkupCompile.lref
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\MainWindow.baml
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\CrackingClient.g.resources
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\CrackingClient.Properties.Resources.resources
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\CrackingClient.csproj.GenerateResource.Cache
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\CrackingClient.exe
+C:\Users\krazh\Documents\Visual Studio 2015\Projects\PasswordCrackingDistributed\CrackingClient\obj\Debug\CrackingClient.pdb
